@@ -73,7 +73,7 @@ function App() {
                 }   
             </div>
       </div>
-      <Componente1 setCount={setCount}/>
+      <Componente1 setCount={setCount} contador={count}/>
       </>
 
       
